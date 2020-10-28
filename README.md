@@ -1,8 +1,6 @@
 # Quedicate: E-Platform ticketing
 ##### Published Site : [Quedicate](https://ghazali.ml/projects/quedicate/)
 
-Kasif
-
 ***
 
 This project is the sole property of *Ghazali* (aka GShacklebolt) and *Md Kasif* (aka Kashif Morningstar). 
