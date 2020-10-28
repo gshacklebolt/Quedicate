@@ -31,7 +31,7 @@ Copyright (C) 2020 by Ghazali || Md Kasif
 **CONTACT US**
 
 * <ghazali123456@gmail.com>
-* <mdkasif1055@gmail.com>
+* <mdkasif4796@gmail.com>
  
 ***
 
