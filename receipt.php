@@ -52,6 +52,7 @@ mysqli_close( $con );
 <html>
 <head>
 	<meta charset="utf-8">
+	<meta name="robots" content="noindex" />
 	<meta name="description" content="">
 	<meta name="author" content="Ghazali||Md Kasif">
 	<!-- Mobile Specific Metas
