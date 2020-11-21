@@ -1,7 +1,8 @@
 <div class="footer" align="center">
-	<p>
-		Designed &amp; Developed by <a href="https://ghazali.ml/" style="color: aqua;" onMouseOver="this.style.color='#fff'" onMouseOut="this.style.color='aqua'">Ghazali</a> and <a href="http://mstar.000webhostapp.com/" style="color: aqua;" onMouseOver="this.style.color='#fff'" onMouseOut="this.style.color='aqua'">Md Kasif</a>
+	<p id="copyright">
+		<script>document.getElementById("copyright").innerHTML="Copyright &copy; "+new Date().getFullYear()+" | All Rights Reserved";</script>
 	</p>
-	<p> Copyright &copy; <script>document.write(new Date().getFullYear());</script> | All Rights Reserved
+	<p>
+		Designed &amp; Developed by <a href="https://ghazali.ml/" target="_blank" style="color: aqua;" onMouseOver="this.style.color='#fff'" onMouseOut="this.style.color='aqua'">Ghazali</a> and <a href="http://mstar.000webhostapp.com/" target="_blank" style="color: aqua;" onMouseOver="this.style.color='#fff'" onMouseOut="this.style.color='aqua'">Md Kasif</a>
 	</p>
 </div>
