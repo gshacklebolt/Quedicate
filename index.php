@@ -13,6 +13,7 @@ if(isset($_COOKIE["id_data"]))
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	
 <title>Quedicate: Ticket Info</title>
+<link rel="canonical" href="https://www.ghazali.ml/projects/quedicate/" />
 <link rel="icon" href="images/icon.png" type="image/x-icon" />
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/bootstrap.min.css">
