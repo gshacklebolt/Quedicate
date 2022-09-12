@@ -1,5 +1,5 @@
 # Quedicate: E-Platform ticketing
-##### Published Site : [Quedicate](https://ghazali.ml/projects/quedicate/)
+##### Published Site : [Quedicate](https://ghazali.ga/projects/quedicate/)
 
 ***
 
